@@ -3,20 +3,20 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Cupez04.github.io/GoIT-Ice_Cream",
+  "homepage": "https://Cupez04.github.io/Ice_Cream_GoIT",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /GoIT-Ice_Cream/"
+    "build": "parcel build src/*.html --public-url /Ice_Cream_GoIT/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/Cupez04/Ice_Cream_GoIT"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/Cupez04/Ice_Cream_GoIT/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
